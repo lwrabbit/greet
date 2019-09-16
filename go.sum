@@ -1,4 +1,2 @@
-github.com/lwrabbit/greetings v1.0.0 h1:rv3ZAn/K3SpxSHZN86Z1HSgbNwWnOiEKWTYGl5Wtlgw=
-github.com/lwrabbit/greetings v1.0.0/go.mod h1:NCYh9LEyWB4rTa/dRW/QtrIfKcUpfteps+HN5xgmZ/I=
-github.com/lwrabbit/greetings v1.0.1 h1:558Wb/yIG86pg5qMNUp8L50gbQycaJj3rYhtoATLM9E=
-github.com/lwrabbit/greetings v1.0.1/go.mod h1:NCYh9LEyWB4rTa/dRW/QtrIfKcUpfteps+HN5xgmZ/I=
+github.com/lwrabbit/greetings/v2 v2.0.0 h1:dxVmBjgtNqx9atLvAfnaMnKleKSRBdtY8XZHy6/f0+w=
+github.com/lwrabbit/greetings/v2 v2.0.0/go.mod h1:0vHMAn+CK4IJ+iH8w5s9Mx9jJkMP8V//xDo8D5i9Nxg=
