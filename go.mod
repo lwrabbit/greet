@@ -1,4 +1,4 @@
-module greet
+module github.com/lwrabbit/greet
 
 go 1.13
 
