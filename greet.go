@@ -1,4 +1,4 @@
-package main
+package greet
 
 import (
 	"fmt"
@@ -13,9 +13,4 @@ func Hi(name string) string {
 // Hello returns a friendly greeting
 func Hello(name string) string {
 	return fmt.Sprintf("%s, %s", greetings.HELLO, name)
-}
-
-func main() {
-	fmt.Println(Hi("lwrabbit"))
-	fmt.Println(Hello("lwrabbit"))
 }
